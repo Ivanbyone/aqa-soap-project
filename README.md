@@ -7,3 +7,4 @@
 > - [Тестовая документация:](./docs)
 >   1. [Функциональные требования](./docs/functional_requirements.md)
 >   2. [Тест план](./docs/test_plan.md)
+>   3. [Чек-лист](./docs/check_list.md)
